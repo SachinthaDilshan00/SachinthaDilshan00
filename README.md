@@ -57,12 +57,13 @@
 <tr>
 <td>App Development</td>
 <td>
-  <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Java- 
-  Dark.svg" style="width:5%;"></a>
   <a href="https://www.python.org/downloads/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/python.png" 
   style="width:5%;"></a>
   <a href="https://www.codeblocks.org/downloads/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/C.svg"     
   style="width:5%;"></a>
+  <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Java-Dark.svg"     
+  style="width:5%;"></a>
+  
 </td>
 </tr>
 <tr>
