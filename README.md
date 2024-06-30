@@ -82,7 +82,12 @@
 </tr>
 <tr>
 <td>Others</td>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fbf5a3ede19846c5afd04a75e7bf8cb3318b9e9114950da09e5b650fd48938f3/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769746875622c6769742c6175746f6361642c6d6176656e2c646973636f72642c737461636b6f766572666c6f772c6169"><img src="https://camo.githubusercontent.com/fbf5a3ede19846c5afd04a75e7bf8cb3318b9e9114950da09e5b650fd48938f3/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769746875622c6769742c6175746f6361642c6d6176656e2c646973636f72642c737461636b6f766572666c6f772c6169" data-canonical-src="https://skillicons.dev/icons?i=github,git,autocad,maven,discord,stackoverflow,ai" style="max-width: 100%;"></a></td>
+<td>
+  <a><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Github-Dark.svg" style="width:5%;"></a>
+  <a><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Git.svg" style="width:5%;"></a>
+  <a><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Discord.svg" style="width:5%;"></a>
+  <a><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Illustrator.svg" style="width:5%;"></a>
+</td>
 </tr>
 </tbody>
 </table>
