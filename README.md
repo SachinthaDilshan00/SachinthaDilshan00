@@ -76,8 +76,8 @@
 <td>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/MySQL-Dark.svg" 
   style="width:5%;"></a>
-   <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Java- 
-   Dark.svg" style="width:5%;"></a>
+  <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Java-Dark.svg"     
+  style="width:5%;"></a>
 </td>
 </tr>
 <tr>
