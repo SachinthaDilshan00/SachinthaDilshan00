@@ -48,7 +48,7 @@
 <tbody>
 <tr>
 <td>IDE</td>
-<td><a href="https://www.jetbrains.com/pycharm/download/?section=windows target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/pngwing.com.png" style="width:6%;"></a></td>
+<td><a href="https://www.jetbrains.com/pycharm/download/?section=windows target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/pycharm.png" style="width:6%;"></a></td>
 </tr>
 <tr>
 <td>UI Tools</td>
