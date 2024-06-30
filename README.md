@@ -22,7 +22,7 @@
     <li> <p dir="auto">⚡ Fun fact <strong>inspire from superman</strong></p> </li>
     </td>
     <td width="50%" align="center">
-    <img align="center" width="450px" style="max-width=100%;" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px" />
+    <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px>
     </td>
   </tr>
 </tbody>
