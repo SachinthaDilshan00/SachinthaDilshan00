@@ -83,11 +83,11 @@
 <tr>
 <td>Others</td>
 <td>
-  <a><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Github-Dark.svg" style="width:5%;"></a>
-  <a><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Git.svg" style="width:5%;"></a>
-  <a><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Discord.svg" style="width:5%;"></a>
-  <a><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Illustrator.svg" style="width:5%;"></a>
-   <a><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" style="width:5%;"></a>
+  <img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Github-Dark.svg" style="width:5%;">
+  <img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Git.svg" style="width:5%;">
+  <img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Discord.svg" style="width:5%;">
+  <img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Illustrator.svg" style="width:5%;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" style="width:5%;">
 </td>
 </tr>
 </tbody>
