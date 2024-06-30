@@ -48,11 +48,11 @@
 <tbody>
 <tr>
 <td>IDE</td>
-<td><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" style="width: 14%;"></a></td>
+<td><a href="https://www.jetbrains.com/pycharm/download/?section=windows target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/pngwing.com.png" style="width:6%;"></a></td>
 </tr>
 <tr>
 <td>UI Tools</td>
-<td><a href="https://www.adobe.com/products/photoshop.html"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" style="width: 14%;"></a></td>
+<td><a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" style="width:6%;"></a></td>
 </tr>
 <tr>
 <td>App Development</td>
