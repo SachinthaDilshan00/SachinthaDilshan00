@@ -48,23 +48,36 @@
 <tbody>
 <tr>
 <td>IDE</td>
-<td><a href="https://www.jetbrains.com/pycharm/download/?section=windows target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/pycharm.png" style="width:6%;"></a></td>
+<td><a href="https://www.jetbrains.com/pycharm/download/?section=windows target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/pycharm.png" style="width:5%;"></a></td>
 </tr>
 <tr>
 <td>UI Tools</td>
-<td><a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" style="width:6%;"></a></td>
+<td><a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" style="width:5%;"></a></td>
 </tr>
 <tr>
 <td>App Development</td>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/18317e132f8172b6f1a4693313d1481774110a8f40d36256a4facf63513f3f5e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a6176612c70792c63"><img src="https://camo.githubusercontent.com/18317e132f8172b6f1a4693313d1481774110a8f40d36256a4facf63513f3f5e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a6176612c70792c63" data-canonical-src="https://skillicons.dev/icons?i=java,py,c" style="max-width: 100%;"></a></td>
+<td>
+  <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Java- 
+  Dark.svg" style="width:5%;"></a>
+  <a href="https://www.python.org/downloads/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/python.png" 
+  style="width:5%;"></a>
+  <a href="https://www.codeblocks.org/downloads/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/C.svg"     
+  style="width:5%;"></a>
+</td>
 </tr>
 <tr>
 <td>Front End</td>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/822820b8da7a3637b759326de4c2260f43971f38415604562ab908f73c565e51/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a73"><img src="https://camo.githubusercontent.com/822820b8da7a3637b759326de4c2260f43971f38415604562ab908f73c565e51/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a73" data-canonical-src="https://skillicons.dev/icons?i=html,css,js" style="max-width: 100%;"></a></td>
+<td><a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/HTML.svg" style="width:5%;"></a>
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/CSS.svg" style="width:5%;"></a></td>
 </tr>
 <tr>
 <td>Back End</td>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/08b6ae3205ea60f033568e9db63a8fa60f14c1e9d4674b169b940c7a7e8a3bfa/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a6176612c68696265726e6174652c72656765782c6d7973716c"><img src="https://camo.githubusercontent.com/08b6ae3205ea60f033568e9db63a8fa60f14c1e9d4674b169b940c7a7e8a3bfa/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a6176612c68696265726e6174652c72656765782c6d7973716c" data-canonical-src="https://skillicons.dev/icons?i=java,hibernate,regex,mysql" style="max-width: 100%;"></a></td>
+<td>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/MySQL-Dark.svg" 
+  style="width:5%;"></a>
+   <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Java- 
+   Dark.svg" style="width:5%;"></a>
+</td>
 </tr>
 <tr>
 <td>Others</td>
