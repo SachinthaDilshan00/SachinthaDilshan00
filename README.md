@@ -102,5 +102,5 @@
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Connect With Me
 <p align="center" dir="auto">
 <a href="https://www.linkedin.com/in/sachintha-dilshan-madhushankha-472a36309/?trk=public-profile-join-page" rel="nofollow"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" style="max-width: 100%;"></a>
-<a href="https://stackoverflow.com/users/22345746/kaveen-dinethma" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" style="max-width: 100%;"></a>
+<a href="https://stackoverflow.com/users/25270253/sachintha-dilshan?tab=profile" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" style="max-width: 100%;"></a>
 </p>
