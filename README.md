@@ -152,7 +152,8 @@
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Connect With Me
 <p>I'm always open to collaborations, discussions, or just chatting about tech, problem-solving, or our favorite superheroes! Feel free to reach out to me:</p>
 <p align="center" dir="auto">
-<a href="https://www.linkedin.com/in/sachintha-dilshan-madhushankha-472a36309/?trk=public-profile-join-page" rel="nofollow"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" style="max-width: 100%;"></a>
-<a href="https://stackoverflow.com/users/25270253/sachintha-dilshan?tab=profile" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/sachintha-dilshan-madhushankha-472a36309/?trk=public-profile-join-page" rel="nofollow"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height="50" width="50" style="max-width: 100%;"></a>
+<a href="https://stackoverflow.com/users/25270253/sachintha-dilshan?tab=profile" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="50" width="50" style="max-width: 100%;"></a>
+<a href="https://www.hackerrank.com/profile/dilshansachiya61" rel="nofollow"><img align="center" src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/hackerrank.svg" height="50" width="50" style="max-width: 100%;"></a>
 </p>
 <p align="center">Looking forward to connecting with you! 🚀</p>
