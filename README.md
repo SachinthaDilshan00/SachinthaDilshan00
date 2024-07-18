@@ -14,7 +14,7 @@
   <tr border="none">
     <td width="50%" align="left">
     <ul dir="auto">
-    <li> <p dir="auto">🌱 I’m currently learning <strong>HTML,CSS,JS,SQL,C and Java</strong></p> </li>
+    <li> <p dir="auto">🌱 I’m currently learning <strong>MERN Stack</strong></p> </li>
     <li> <p dir="auto">🧑‍🎓 I’m an undergraduate at <strong>Horizon Campus</strong></p> </li>
     <li> <p dir="auto">📝 I regularly write articles on https://medium.com/@dilshansachiya671_17974</p> </li>
     <li> <p dir="auto">💬 Ask me about <strong>HTML,CSS,SQL,C</strong></p> </li>
